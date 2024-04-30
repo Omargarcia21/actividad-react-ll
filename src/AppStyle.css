@@ -1,0 +1,47 @@
+.container-btn {
+    width: 100%;
+    padding: 0px 10px;
+}
+button {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.945);
+    border: 1px solid #ccc;
+}
+
+button:hover {
+    background-color: #ddab69;
+}
+.btn-all {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(128, 209, 247, 0.945);
+    border: 1px solid #f180cf;
+    color: black;
+}
+.btn-homework {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(154, 245, 162, 0.945);
+    border: 1px solid #f0a1c2;
+    color: black;
+}
+.btn-movie {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(186, 156, 235, 0.945);
+    border: 1px solid #89eff3;
+    color: black;
+}
+.btn-song {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(128, 209, 247, 0.945);
+    border: 1px solid #f180cf;
+    color: black;
+}

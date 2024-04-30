@@ -1,0 +1,22 @@
+span {
+    background-color: #fdfa32;
+    font-weight: bolder;
+    border-radius: 2px;
+}
+span:hover {
+    color: #111010;
+}
+
+a {
+    color: #000;
+    display: block;
+    padding: 10px;
+    border: none;
+    width: auto;
+    text-decoration: none;
+    cursor: pointer;
+}
+a:hover {
+    background-color: #4c91ba;
+    color: #111010;
+}
